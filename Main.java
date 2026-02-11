@@ -34,7 +34,7 @@ public class Main {
         int choice;
 
         do {
-            System.out.println("\n🚗 Vehicle Rental System");
+            System.out.println("\n🚗 Vehicle Rental System developed by Monty");
             System.out.println("1. Add Vehicle");
             System.out.println("2. View Vehicles");
             System.out.println("3. Rent Vehicle");
