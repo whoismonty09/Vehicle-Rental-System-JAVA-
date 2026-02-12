@@ -50,5 +50,5 @@ java Main
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 
 Developed by Monty
